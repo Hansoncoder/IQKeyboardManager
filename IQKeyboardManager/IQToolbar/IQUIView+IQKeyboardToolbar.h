@@ -21,7 +21,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-#import <IQToolbar.h>
+#import <IQKeyboardManager/IQToolbar.h>
 
 #import <UIKit/UIView.h>
 #import <UIKit/UIImage.h>
